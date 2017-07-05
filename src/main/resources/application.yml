@@ -1,0 +1,16 @@
+
+camel:
+  springboot:
+    # The Camel context name
+    name: CamelRestJpa
+
+spring:
+  # Spring JDBC configuration
+  datasource:
+    # Let Spring Boot auto-configure an embedded HSQL database
+    url:
+
+# The application configuration properties
+example:
+  generateOrderPeriod: 2s
+  processOrderPeriod: 4s
