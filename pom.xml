@@ -16,7 +16,7 @@
 		<category>SpringBootCamelJpa</category>
 		<title>Spring Boot REST JPA</title>
 
-		<spring.boot-version>1.5.14.RELEASE</spring.boot-version>
+		<spring.boot-version>1.5.16.RELEASE</spring.boot-version>
 		<camel.version>2.19.1</camel.version>
 		
 		
